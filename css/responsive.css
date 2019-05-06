@@ -153,6 +153,11 @@
     padding: 3px 20px 30px;
   }
 
+  #registration {
+    height: auto;
+    margin: 100px 0px;
+  }
+
   .description:first-child {
     width: calc(100% - 60px);
   }
@@ -191,6 +196,11 @@
     margin-top: 5px;
     padding: 3px 5px 20px;
     text-align: right;
+  }
+
+  #registration {
+    height: auto;
+    margin: 100px 0px;
   }
 
   .description:first-child {
