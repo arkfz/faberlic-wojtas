@@ -155,7 +155,7 @@
 
   #registration {
     height: auto;
-    margin: 100px 0px;
+    margin: 70px 0px;
   }
 
   .description:first-child {
@@ -200,16 +200,18 @@
 
   #registration {
     height: auto;
-    margin: 100px 0px;
+    margin: 70px 0px;
   }
 
   .description:first-child {
     width: calc(100% - 40px);
+    font-weight: 400;
   }
 
   .description:nth-child(2) {
     width: 80%;
     margin-top: 40px;
+    font-weight: 500;
   }
 
   #btn {
